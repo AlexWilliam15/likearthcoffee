@@ -12,12 +12,6 @@
   },
   "footer": {
     "content": "All right reserved",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ]
+    "links": []
   }
 }
