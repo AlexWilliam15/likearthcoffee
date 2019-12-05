@@ -5,7 +5,7 @@
   "header": {
     "title": "Like Earth Coffee",
     "tagline": "SPECIALITY COFFEE AND DINE",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/biji.png",
     "bg": "light",
     "has_nav": true,
     "has_social": true
